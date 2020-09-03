@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TallerUnimag1</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="error1">"error invalido"</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnCancelar">cancelar</string>
+    <string name="operaciones">Operaciones</string>
+    <string name="numero1">Numero 1</string>
+    <string name="numero2">Numero 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multi">Multiplicar</string>
+    <string name="div">Dividir</string>
+    <string name="mayor">Mayor</string>
+    <string name="mcm">MCM</string>
+    <string name="mcd">MCD</string>
+</resources>
